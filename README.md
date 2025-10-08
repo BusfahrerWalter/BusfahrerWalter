@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=busfahrerWalter" style="height: 195px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=tokyonight&layout=compact&username=busfahrerWalter" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?theme=github_dark&username=busfahrerWalter" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=busfahrerWalter" style="height: 195px;"/>
 </p>
 
 <p align="right">
