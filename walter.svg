@@ -5,15 +5,6 @@
 	</text>
 	<style>
 		@font-face {
-		   font-family: 'Rubik Glitch';
-		   font-style: normal;
-		   font-weight: 400;
-		   font-display: swap;
-		   src: url(https://github.com/BusfahrerWalter/BusfahrerWalter/raw/refs/heads/main/font.woff2) format('woff2');
-		   unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-		}
-
-		@font-face {
 			font-family: 'Rubik Glitch';
 			font-style: normal;
 			font-weight: 400;
@@ -35,24 +26,37 @@
 			font-family: "Rubik Glitch", monospace, sans-serif;
 			width: 100%; height: 100%;
 		}
-	   
+
 		svg text {
 			animation: stroke 5s infinite alternate;
-			stroke-width: 2;
+			stroke-width: 1;
 			stroke: #365FA0;
 			font-size: 91px;
 		}
-	   
+
 		@keyframes stroke {
-			0%   {
-				fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1);
-				stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
+			0% {
+				fill: #488acc00; 
+				stroke: #365fa0;
+				stroke-dashoffset: 25%; 
+				stroke-dasharray: 0 50%; 
+				stroke-width: 1;
 			}
-			70%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); }
-			80%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); stroke-width: 3; }
+			70%  {
+				fill: #488acc00; 
+				stroke: #365fa0; 
+			}
+			80%  {
+				fill: #488acc00; 
+				stroke: #365fa0; 
+				stroke-width: 2;
+			}
 			100% {
-				fill: rgba(72,138,204,1); stroke: rgba(54,95,160,0);
-				stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
+				fill: #488acc; 
+				stroke: #365fa000;
+				stroke-dashoffset: -25%; 
+				stroke-dasharray: 50% 0; 
+				stroke-width: 0;
 			}
 		}
 	</style>
