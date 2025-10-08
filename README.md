@@ -2,11 +2,15 @@
   <img src="https://raw.githubusercontent.com/BusfahrerWalter/BusfahrerWalter/main/walter-embed.svg"/>
 </p>
 
+<br>
+
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in Sleeping
 - 🌱 I’m currently learning Computer stuff
 - 💞️ I’m looking to collaborate on internt
 - 📫 How to reach me: hi@dani3l.dev
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=busfahrerWalter" style="height: 195px;"/>
