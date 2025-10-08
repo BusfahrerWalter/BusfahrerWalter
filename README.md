@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BusfahrerWalter/BusfahrerWalter/main/walter.svg"/>
+  <img src="https://raw.githubusercontent.com/BusfahrerWalter/BusfahrerWalter/main/walter-embed.svg"/>
 </p>
 
 - 👋 Hi, I’m Daniel
