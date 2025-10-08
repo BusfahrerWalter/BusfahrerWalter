@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<svg width="750" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+	<text x="50%" y="50%" dy=".35em" text-anchor="middle">
+		BusfahrerWalter
+	</text>
+	<style>
+		@font-face {
+		   font-family: 'Rubik Glitch';
+		   font-style: normal;
+		   font-weight: 400;
+		   font-display: swap;
+		   src: url(https://github.com/BusfahrerWalter/BusfahrerWalter/raw/refs/heads/main/font.woff2) format('woff2');
+		   unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+		}
 
-<svg
-   width="750"
-   height="80"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-    
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle">
-        BusfahrerWalter
-    </text>
-    <style>
-        @import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&amp;display=swap");
-
-        svg {
-        	font-family: "Rubik Glitch", monospace, sans-serif;
-        	width: 100%; height: 100%;
-        }
-       
-        svg text {
-        	animation: stroke 5s infinite alternate;
-        	stroke-width: 2;
-        	stroke: #365FA0;
-        	font-size: 91px;
-        }
-       
-        @keyframes stroke {
-        	0%   {
-        		fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1);
-        		stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
-        	}
-        	70%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); }
-        	80%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); stroke-width: 3; }
-        	100% {
-        		fill: rgba(72,138,204,1); stroke: rgba(54,95,160,0);
-        		stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
-        	}
-        }
-        
-        .wrapper {background-color: #FFFFFF};
-    </style>
+		svg {
+			font-family: "Rubik Glitch", monospace, sans-serif;
+			width: 100%; height: 100%;
+		}
+	   
+		svg text {
+			animation: stroke 5s infinite alternate;
+			stroke-width: 2;
+			stroke: #365FA0;
+			font-size: 91px;
+		}
+	   
+		@keyframes stroke {
+			0%   {
+				fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1);
+				stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
+			}
+			70%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); }
+			80%  {fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1); stroke-width: 3; }
+			100% {
+				fill: rgba(72,138,204,1); stroke: rgba(54,95,160,0);
+				stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
+			}
+		}
+	</style>
 </svg>
