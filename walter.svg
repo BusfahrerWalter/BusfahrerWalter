@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <svg
-   width="440"
-   height="20"
+   width="750"
+   height="80"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
     
@@ -13,15 +13,17 @@
         @import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&amp;display=swap");
 
         svg {
-        	font-family: "Rubik Glitch", sans-serif;
+        	font-family: "Rubik Glitch", monospace, sans-serif;
         	width: 100%; height: 100%;
         }
+       
         svg text {
         	animation: stroke 5s infinite alternate;
         	stroke-width: 2;
         	stroke: #365FA0;
         	font-size: 91px;
         }
+       
         @keyframes stroke {
         	0%   {
         		fill: rgba(72,138,204,0); stroke: rgba(54,95,160,1);
