@@ -8,6 +8,11 @@
 - 💞️ I’m looking to collaborate on internt
 - 📫 How to reach me: hi@dani3l.dev
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=busfahrerWalter" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=tokyonight&layout=compact&username=busfahrerWalter" style="height: 195px;"/>
+</p>
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BusfahrerWalter.BusfahrerWalter"/>
 </p>
