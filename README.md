@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/BusfahrerWalter/BusfahrerWalter/main/walter.svg"/>
 </p>
 
-- 👋 Hi, I’m @BusfahrerWalter
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in Sleeping
 - 🌱 I’m currently learning Computer stuff
 - 💞️ I’m looking to collaborate on internt
